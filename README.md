@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, I'm Karsh
+# I'm Karsh
 
 pursuing BSc Hons Mathematics from Delhi University. I am an environmentalist, musician, and researcher with interests in data analytics, AI, quantitative research, and the intersection of technology, society, and the environment.
 
